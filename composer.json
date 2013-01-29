@@ -1,0 +1,20 @@
+{
+    "name": "Questionable Cards",
+    "require": {
+        "slim/slim": "2.*",
+        "twig/twig": "1.*",
+        "slim/extras": "2.*",
+        "j4mie/paris": "1.*",
+        "j4mie/idiorm": "1.*"
+    },
+    "authors": [
+        {
+            "name": "Blain Smith",
+            "email": "rebelgeek@blainsmith.com"
+        },
+        {
+            "name": "Jace Richardson",
+            "email": "jace@synapsedm.com"
+        }
+    ]
+}
